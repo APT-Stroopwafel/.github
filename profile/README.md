@@ -1,4 +1,4 @@
-# APT Stroopwafel
+# APT Stroopwafel *0
 
 **APT Stroopwafel** is the first Dutch advanced persistent threat organization created to represent the Netherlands in cybersecurity research, red teaming, and threat simulation.
 
@@ -30,3 +30,5 @@ If you are interested in offensive security, threat research, or building a more
 ---
 
 > APT Stroopwafel: dutch persistence, world-class threat simulation.
+
+*0: All credits to ork44 ;) 
